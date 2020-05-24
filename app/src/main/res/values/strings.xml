@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Indian Calculator</string>
+    <string name="plus">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">x</string>
+    <string name="divide">/</string>
+    <string name="result">Result</string>
+    <string name="first_value">first value</string>
+    <string name="second_value">second value</string>
+    <string name="download_source_code">Download source code</string>
+    <string name="open_source_project">Open Source Project</string>
+    <string name="about_us">About Us</string>
+    <string name="oprn_source_desc">Indian Calculator is a Open Source Android App Project, you can modify, customize, add new options, etc. This open source calculator first made by <b>Kishan Nath</b>.</string>
+    <string name="app_desc">My name in <b>Kishan Nath</b>, I have made this application. Indian calculator is a simple calculator Android application, you can easily calculate the basic calculation, its interface is quite interesting and it is also very easy to use.</string>
+    <string name="app_desc_img">All the photos shown in the application are all taken from the icons8.com website.</string>
+    <string name="age">AGE</string>
+    <string name="calculate_age">Calculate Age</string>
+    <string name="e_g_1998">E.g: 1998</string>
+    <string name="app_desc_policy"><b>Note:</b> Indian Calculator application does not collect any user\'s data nor store it anywhere.</string>
+</resources>
